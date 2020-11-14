@@ -1,0 +1,13 @@
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\bin\Debug\netcoreapp3.1\ProjectoTeste.exe
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\bin\Debug\netcoreapp3.1\ProjectoTeste.deps.json
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\bin\Debug\netcoreapp3.1\ProjectoTeste.runtimeconfig.json
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\bin\Debug\netcoreapp3.1\ProjectoTeste.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\bin\Debug\netcoreapp3.1\ProjectoTeste.dll
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\bin\Debug\netcoreapp3.1\ProjectoTeste.pdb
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.dll
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.pdb
+C:\Users\Utilizador\Desktop\C# Course\ProjectoTeste\ProjectoTeste\obj\Debug\netcoreapp3.1\ProjectoTeste.genruntimeconfig.cache
